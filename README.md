@@ -4,13 +4,6 @@ A machine learning-based system to detect fraudulent Medicare claims submitted b
 
 ---
 
-## 🚀 Demo
-
-![App Screenshot](/Screenshot 2025-06-14 214443.png)
- 
-
----
-
 ## 📊 Project Overview
 
 Healthcare fraud leads to billions in losses every year. This project applies machine learning techniques to analyze Medicare billing data and flag potentially fraudulent activity by providers.
@@ -50,7 +43,3 @@ We used publicly available datasets from:
 - Screenshot of app interface
 
 ---
-
-## 📷 Screenshots
-
-./Screenshot 2025-06-14 214527.png
