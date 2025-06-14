@@ -6,7 +6,8 @@ A machine learning-based system to detect fraudulent Medicare claims submitted b
 
 ## 🚀 Demo
 
-./Screenshot 2025-06-14 214443.png 
+![App Screenshot](Screenshot 2025-06-14 214443.png)
+ 
 
 ---
 
